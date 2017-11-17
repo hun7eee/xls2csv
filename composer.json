@@ -1,0 +1,14 @@
+{
+  "name": "hun7eee/xls2csv",
+  "type": "library",
+  "description": "Simple XLS to CSV converter",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Xls2Csv\\": "src/"
+    }
+  }
+}
