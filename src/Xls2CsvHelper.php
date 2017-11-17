@@ -1,5 +1,7 @@
 <?php
 
+namespace Xls2Csv;
+
 /**
  * Simple XLS to CSV converter
  * Class Xls2CsvHelper
