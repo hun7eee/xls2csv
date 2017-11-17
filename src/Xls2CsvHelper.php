@@ -13,6 +13,13 @@ class Xls2CsvHelper
     private $resultPath;
     private $resultName;
 
+    /**
+     * Xls2CsvHelper constructor.
+     * @param $filePath
+     * @param $fileName
+     * @param $resultPath
+     * @param $resultName
+     */
     function __construct($filePath, $fileName, $resultPath, $resultName)
     {
         $this->filePath = $filePath;
